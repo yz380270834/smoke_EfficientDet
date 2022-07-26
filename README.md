@@ -1,0 +1,2 @@
+# smoke_EfficientDet
+mangning檢測煙霧模型:EfficientDet
